@@ -591,7 +591,7 @@ function Memories() {
         transition={{ duration: 1.4, ease: [0.22, 1, 0.36, 1] }}
       >
         <span className="memories-line" />
-        <h2 className="memories-title">Bazı şeyler küçükken güzeldi.</h2>
+        <h2 className="memories-title">Bazı şeyler seninle güzeldi.</h2>
         <span className="memories-line" />
       </motion.header>
 
